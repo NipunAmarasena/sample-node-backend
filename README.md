@@ -1,2 +1,2 @@
 # sample-node-backend
-~Sample node backend with JWT authentication~
+Sample node backend with JWT authentication
